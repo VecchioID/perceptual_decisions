@@ -1,6 +1,7 @@
 # -*- coding=utf-8 -*-
 # written by kai zhao
-# 
+# This is souce code for Cui, L., Tang, S., Zhao, K., Pan, J., Zhang, Z., Si, B., & Xu, N. L. (2021). 
+# Asymmetrical choice-related ensemble activity in direct and indirect-pathway striatal neurons drives perceptual decisions. bioRxiv.
 import numpy as np
 import matplotlib.pyplot as plt
 from numpy.core.fromnumeric import mean
