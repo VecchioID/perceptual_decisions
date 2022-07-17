@@ -438,7 +438,7 @@ def main():
     total_Sessions = 22
     Trial_repeat   = 100
     # change this to simulate different optogenetic perturbation current
-    Optogenetic_perturbation_current = np.linspace(-1.5, -3.5, num_split)  # i.e. D1 inactivation -> -2.5±1.0
+    Optogenetic_perturbation_current = np.linspace(-1.5, -3.5, num_split)  # i.e. D1 inactivation -> -2.5±1.0, other params are provided in paper.
     for i in range(num_split):
         # change 0 to 1  make optogenetic perturbation, to reproduce the control results, all set to 0(false)
         D1L_Inhi  = 0
