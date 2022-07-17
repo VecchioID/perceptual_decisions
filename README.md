@@ -1,7 +1,7 @@
 # Perceptual_decisions
 This is souce code for Cui, L., Tang, S., Zhao, K., Pan, J., Zhang, Z., Si, B., & Xu, N. L. (2021). Asymmetrical choice-related ensemble activity in direct and indirect-pathway striatal neurons drives perceptual decisions. bioRxiv.
 
-This version of the code corresponds to the control group of the experiment. In other cases, the parameters in the code can be modified accordingly.  The source code has been tested in windows and macos. 
+This version of the code corresponds to the control group of the experiment. In other cases, the parameters in the code can be modified accordingly.  The source code has been tested in windows and macos. Please note that only simulation data is saved here, and analysis and drawing codes are not provided.
 
 ## Installation instructions:
 ```
