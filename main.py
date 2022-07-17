@@ -396,7 +396,6 @@ def decision_prob(freq):
 
 
 def loop(stim_value, total_Sessions, Trial_repeat, I_D1L_Inhi, I_D2L_Inhi, I_PVL_Inhi):
-    # todo 是否改一点参数让 t_start=100？？？
     t_start = 100
     t_end   = 3000
 
